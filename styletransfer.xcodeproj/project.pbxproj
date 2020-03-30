@@ -97,11 +97,9 @@
 		6A5C36A824326C1600FC46CC /* styletransfer */ = {
 			isa = PBXGroup;
 			children = (
-				6A5C36A924326C1600FC46CC /* AppDelegate.swift */,
+				6A5C36D7243272CB00FC46CC /* supporting Files */,
 				6A5C36AB24326C1600FC46CC /* ViewController.swift */,
 				6A5C36AD24326C1600FC46CC /* Main.storyboard */,
-				6A5C36B024326C1800FC46CC /* Assets.xcassets */,
-				6A5C36B224326C1800FC46CC /* LaunchScreen.storyboard */,
 				6A5C36B524326C1800FC46CC /* Info.plist */,
 			);
 			path = styletransfer;
@@ -123,6 +121,16 @@
 				6A5C36CB24326C1900FC46CC /* Info.plist */,
 			);
 			path = styletransferUITests;
+			sourceTree = "<group>";
+		};
+		6A5C36D7243272CB00FC46CC /* supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6A5C36A924326C1600FC46CC /* AppDelegate.swift */,
+				6A5C36B024326C1800FC46CC /* Assets.xcassets */,
+				6A5C36B224326C1800FC46CC /* LaunchScreen.storyboard */,
+			);
+			path = "supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
